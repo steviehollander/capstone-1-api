@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Judy Loons",
+      "email": "orgevibes@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Creed Smallville",
+      "email": "spritelover@yahoo.com"
+    },
+    {
+      "name": "Samantha Jones",
+      "email": "carrieisfake@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Tyler Hilliard",
+      "email": "tylertylertyler@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "lisa",
+      "email": "barlowfun@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "arnold",
+      "email": "heyarnold@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "katie",
+      "email": "katie@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Stevie",
+      "email": "andjustlikethat@gmail.com",
+      "id": 8
+    }
+  ],
+  "closets": [
+    {
+      "id": 1,
+      "userId": "1",
+      "closetTypeId": "1"
+    },
+    {
+      "id": 2,
+      "userId": "1",
+      "closetTypeId": "2"
+    },
+    {
+      "id": 3,
+      "userId": "2",
+      "closetTypeId": "1"
+    },
+    {
+      "id": 4,
+      "userId": "2",
+      "closetTypeId": "1"
+    },
+    {
+      "userId": 5,
+      "closetTypeId": 1,
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "closetTypeId": 2,
+      "id": 6
+    },
+    {
+      "userId": 6,
+      "closetTypeId": 1,
+      "id": 7
+    },
+    {
+      "userId": 6,
+      "closetTypeId": 2,
+      "id": 8
+    },
+    {
+      "userId": 7,
+      "closetTypeId": 1,
+      "id": 9
+    },
+    {
+      "userId": 7,
+      "closetTypeId": 2,
+      "id": 10
+    },
+    {
+      "userId": 8,
+      "closetTypeId": 1,
+      "id": 11
+    },
+    {
+      "userId": 8,
+      "closetTypeId": 2,
+      "id": 12
+    }
+  ],
+  "closetTypes": [
+    {
+      "id": 1,
+      "type": "Closet"
+    },
+    {
+      "id": 2,
+      "type": "Dream Closet"
+    }
+  ],
+  "pieces": [
+    {
+      "closetId": 1,
+      "imgAddress": "https://www.yoox.com/images/items/12/12571057IF_14_f.jpg?impolicy=crop&width=387&height=490",
+      "brand": "Karl Lagerfeld",
+      "price": 207,
+      "purchaseLink": "https://www.yoox.com/us/12571057IF/item#dept=clothingwomen&sts=sr_clothingwomen80&cod10=12571057IF&sizeId=-1",
+      "pieceTypeId": 1,
+      "id": 2
+    },
+    {
+      "closetId": 1,
+      "imgAddress": "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_2.0/221553F044010_1/jacquemus-green-le-bambino-clutch.jpg",
+      "brand": "Jacquemus",
+      "price": 470,
+      "purchaseLink": "https://www.ssense.com/en-us/women/product/jacquemus/green-le-bambino-clutch/9045341?gclid=CjwKCAiAg6yRBhBNEiwAeVyL0IOnuJBjLiGYh5FNgePiJTySfRjzLFrgnnIhucYbZLvhlxXoo2q2CBoCSsQQAvD_BwE",
+      "pieceTypeId": 4,
+      "id": 4
+    },
+    {
+      "closetId": 5,
+      "imgAddress": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/71b76b15-f9e4-4a0e-9654-a9f8dc373597/air-max-90-se-womens-shoes-sjdvKr.png",
+      "brand": "nike",
+      "price": 60,
+      "purchaseLink": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/71b76b15-f9e4-4a0e-9654-a9f8dc373597/air-max-90-se-womens-shoes-sjdvKr.png",
+      "pieceTypeId": 3,
+      "id": 6
+    },
+    {
+      "closetId": 6,
+      "imgAddress": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/71b76b15-f9e4-4a0e-9654-a9f8dc373597/air-max-90-se-womens-shoes-sjdvKr.png",
+      "brand": "nike",
+      "price": 1300,
+      "purchaseLink": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/71b76b15-f9e4-4a0e-9654-a9f8dc373597/air-max-90-se-womens-shoes-sjdvKr.png",
+      "pieceTypeId": 3,
+      "id": 7
+    },
+    {
+      "closetId": 8,
+      "imgAddress": "data:image/jpeg;base64,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",
+      "brand": "gucci",
+      "price": 950,
+      "purchaseLink": "data:image/jpeg;base64,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",
+      "pieceTypeId": 3,
+      "id": 8
+    },
+    {
+      "closetId": 10,
+      "imgAddress": "data:image/jpeg;base64,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",
+      "brand": "gucci",
+      "price": 960,
+      "purchaseLink": "https://www.gucci.com/us/en/pr/men/shoes-for-men/sneakers-for-men/mens-rhyton-gucci-logo-leather-sneaker-p-500878DRW009522",
+      "pieceTypeId": 3,
+      "id": 9
+    },
+    {
+      "closetId": 2,
+      "imgAddress": "https://n.nordstrommedia.com/id/sr3/b23cc6cd-0828-48bf-bf63-dcb22c0cd5d8.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838&dpr=2",
+      "brand": "Manolo Blahnik",
+      "price": 995,
+      "purchaseLink": "https://www.nordstrom.com/s/manolo-blahnik-hangisi-pointed-toe-pump-women/4917176?origin=category-personalizedsort&breadcrumb=Home%2FBrands%2FManolo%20Blahnik&color=261",
+      "pieceTypeId": 3,
+      "id": 10
+    },
+    {
+      "closetId": 11,
+      "imgAddress": "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_2.0/221314M213029_1/vivienne-westwood-multicolor-snowman-oversized-t-shirt.jpg",
+      "brand": "Vivienne Westwood",
+      "price": 270,
+      "purchaseLink": "https://www.ssense.com/en-us/men/product/vivienne-westwood/multicolor-snowman-oversized-t-shirt/8431531",
+      "pieceTypeId": 1,
+      "id": 12
+    }
+  ],
+  "pieceTypes": [
+    {
+      "id": 1,
+      "type": "tops"
+    },
+    {
+      "id": 2,
+      "type": "bottoms"
+    },
+    {
+      "id": 3,
+      "type": "shoes"
+    },
+    {
+      "id": 4,
+      "type": "accessories"
+    },
+    {
+      "id": 5,
+      "type": "outerwear"
+    },
+    {
+      "id": 6,
+      "type": "one piece"
+    },
+    {
+      "id": 7,
+      "type": "swimwear"
+    }
+  ]
+}
