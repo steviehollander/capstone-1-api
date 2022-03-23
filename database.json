@@ -178,13 +178,76 @@
       "id": 10
     },
     {
+      "closetId": 12,
+      "imgAddress": "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_2.0/221798M170159_1/bottega-veneta-beige-cassette-shoulder-bag.jpg",
+      "brand": "Bottega Veneta ",
+      "price": 1000,
+      "purchaseLink": "https://www.ssense.com/en-us/men/product/bottega-veneta/beige-cassette-shoulder-bag/9144841",
+      "pieceTypeId": 4,
+      "id": 13
+    },
+    {
+      "closetId": 12,
+      "imgAddress": "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_2.0/221451M170025_1/gucci-black-gg-embossed-mini-bag.jpg",
+      "brand": "Gucci",
+      "price": 1100,
+      "purchaseLink": "https://www.ssense.com/en-us/men/product/gucci/black-gg-embossed-mini-bag/9677781",
+      "pieceTypeId": 4,
+      "id": 14
+    },
+    {
       "closetId": 11,
-      "imgAddress": "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_2.0/221314M213029_1/vivienne-westwood-multicolor-snowman-oversized-t-shirt.jpg",
-      "brand": "Vivienne Westwood",
-      "price": 270,
-      "purchaseLink": "https://www.ssense.com/en-us/men/product/vivienne-westwood/multicolor-snowman-oversized-t-shirt/8431531",
+      "imgAddress": "https://img.ssensemedia.com/images/b_white,c_lpad,g_center,h_1412,w_940/c_scale,h_960/f_auto,dpr_2.0/221107M170003_1/feng-chen-wang-beige-and-black-small-bamboo-bag.jpg",
+      "brand": "Fen Chen Wang",
+      "price": 160,
+      "purchaseLink": "https://www.ssense.com/en-us/men/product/feng-chen-wang/beige-and-black-small-bamboo-bag/9154561",
+      "pieceTypeId": 4,
+      "id": 15
+    },
+    {
+      "closetId": 12,
+      "imgAddress": "https://assetsprx.matchesfashion.com/img/product/1300/1461242_1.jpg",
+      "brand": "Acne Studios",
+      "price": 540,
+      "purchaseLink": "https://www.matchesfashion.com/us/products/Acne-Studios-Barcelo-shell-embellished-leather-flatform-sandals-1461242",
+      "pieceTypeId": 3,
+      "id": 16
+    },
+    {
+      "closetId": 11,
+      "imgAddress": "https://assetsprx.matchesfashion.com/img/product/1300/1435129_1.jpg",
+      "brand": "Aries",
+      "price": 118,
+      "purchaseLink": "https://www.matchesfashion.com/us/products/Aries-Sacred-Vulva-print-short-sleeved-bowling-shirt-1435129",
       "pieceTypeId": 1,
-      "id": 12
+      "id": 17
+    },
+    {
+      "closetId": 11,
+      "imgAddress": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fb7eda3c-5ac8-4d05-a18f-1c2c5e82e36e/blazer-mid-77-vintage-mens-shoes-nw30B2.png",
+      "brand": "Nike",
+      "price": 100,
+      "purchaseLink": "https://www.nike.com/t/blazer-mid-77-vintage-mens-shoes-nw30B2/BQ6806-100",
+      "pieceTypeId": 3,
+      "id": 19
+    },
+    {
+      "closetId": 12,
+      "imgAddress": "https://balenciaga.dam.kering.com/m/3f6035fa895b5919/Large-608653DLQ4N1000_F.jpg?v=3",
+      "brand": "Balenciaga",
+      "price": 1050,
+      "purchaseLink": "https://www.balenciaga.com/en-us/everyday-xs-camera-bag-black-608653DLQ4N1000.html",
+      "pieceTypeId": 4,
+      "id": 20
+    },
+    {
+      "closetId": 12,
+      "imgAddress": "https://www.prada.com/content/dam/pradanux_products/2/2DE/2DE131/055F0002/2DE131_055_F0002_SLR.png/jcr:content/renditions/cq5dam.web.hebebed.1250.1250.jpg,https://www.prada.com/content/dam/pradanux_products/2/2DE/2DE131/055F0002/2DE131_055_F0002_SLR.png/jcr:content/renditions/cq5dam.web.hebebed.2000.2000.jpg",
+      "brand": "Prada",
+      "price": 1050,
+      "purchaseLink": "https://www.prada.com/us/en/men/shoes/loafers/products.Chocolate_Sharp_brushed_leather_pointed_loafers.2DE131_055_F0002.html",
+      "pieceTypeId": 3,
+      "id": 21
     }
   ],
   "pieceTypes": [
