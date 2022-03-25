@@ -248,6 +248,24 @@
       "purchaseLink": "https://www.prada.com/us/en/men/shoes/loafers/products.Chocolate_Sharp_brushed_leather_pointed_loafers.2DE131_055_F0002.html",
       "pieceTypeId": 3,
       "id": 21
+    },
+    {
+      "closetId": 11,
+      "imgAddress": "https://images.asos-media.com/products/converse-chuck-70-hi-sneakers-in-terracotta-pink/200520352-1-dustypink?$n_960w$&wid=952&fit=constrain",
+      "brand": "Converse",
+      "price": 44.2,
+      "purchaseLink": "https://www.asos.com/us/converse/converse-chuck-70-hi-sneakers-in-terracotta-pink/prd/200520352?clr=dusty-pink&colourWayId=200520353&cid=2084",
+      "pieceTypeId": 3,
+      "id": 22
+    },
+    {
+      "closetId": 11,
+      "imgAddress": "https://cdn.shopify.com/s/files/1/1641/9675/products/OC_AOLLogo_Shirt.jpg?v=1646266869",
+      "brand": "Online Ceramics",
+      "price": 60,
+      "purchaseLink": "https://online-ceramics.com/product/online-ceramics-online-tee",
+      "pieceTypeId": 1,
+      "id": 24
     }
   ],
   "pieceTypes": [
